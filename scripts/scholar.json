@@ -16,7 +16,7 @@
   ],
   "email_domain": "@ict.ac.cn",
   "homepage": "https://antxinyuan.github.io/",
-  "citedby": 133,
+  "citedby": 136,
   "publications": {
     "eXwizz8AAAAJ:d1gkVwhDpl0C": {
       "container_type": "Publication",
@@ -60,7 +60,7 @@
       },
       "filled": false,
       "author_pub_id": "eXwizz8AAAAJ:9yKSN-GCB0IC",
-      "num_citations": 18,
+      "num_citations": 19,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13973028967109303026",
       "cites_id": [
         "13973028967109303026"
@@ -108,11 +108,23 @@
       },
       "filled": false,
       "author_pub_id": "eXwizz8AAAAJ:2osOgNQ5qMEC",
-      "num_citations": 4,
+      "num_citations": 6,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7132374231750233237",
       "cites_id": [
         "7132374231750233237"
       ]
+    },
+    "eXwizz8AAAAJ:_FxGoFyzp5QC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Semantic-decoupled spatial partition guided point-supervised oriented object detection",
+        "pub_year": "2026",
+        "citation": "Pattern Recognition 180, 114079, 2026"
+      },
+      "filled": false,
+      "author_pub_id": "eXwizz8AAAAJ:_FxGoFyzp5QC",
+      "num_citations": 0
     },
     "eXwizz8AAAAJ:UebtZRa9Y70C": {
       "container_type": "Publication",
@@ -161,19 +173,7 @@
       "filled": false,
       "author_pub_id": "eXwizz8AAAAJ:LkGwnXOMwfcC",
       "num_citations": 0
-    },
-    "eXwizz8AAAAJ:_FxGoFyzp5QC": {
-      "container_type": "Publication",
-      "source": "AUTHOR_PUBLICATION_ENTRY",
-      "bib": {
-        "title": "Semantic-decoupled Spatial Partition Guided Point-supervised Oriented Object Detection",
-        "pub_year": "2025",
-        "citation": "arXiv preprint arXiv:2506.10601, 2025"
-      },
-      "filled": false,
-      "author_pub_id": "eXwizz8AAAAJ:_FxGoFyzp5QC",
-      "num_citations": 0
     }
   },
-  "updated": "2026-05-31 10:19:45.332546"
+  "updated": "2026-06-14 10:51:12.098224"
 }
