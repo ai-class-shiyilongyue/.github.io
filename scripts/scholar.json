@@ -16,7 +16,7 @@
   ],
   "email_domain": "@ict.ac.cn",
   "homepage": "https://antxinyuan.github.io/",
-  "citedby": 139,
+  "citedby": 143,
   "publications": {
     "eXwizz8AAAAJ:d1gkVwhDpl0C": {
       "container_type": "Publication",
@@ -44,7 +44,7 @@
       },
       "filled": false,
       "author_pub_id": "eXwizz8AAAAJ:WF5omc3nYNoC",
-      "num_citations": 35,
+      "num_citations": 37,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17940048768269899219",
       "cites_id": [
         "17940048768269899219"
@@ -76,7 +76,7 @@
       },
       "filled": false,
       "author_pub_id": "eXwizz8AAAAJ:ufrVoPGSRksC",
-      "num_citations": 8,
+      "num_citations": 9,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13110888873972411017",
       "cites_id": [
         "13110888873972411017"
@@ -124,7 +124,11 @@
       },
       "filled": false,
       "author_pub_id": "eXwizz8AAAAJ:_FxGoFyzp5QC",
-      "num_citations": 0
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10788440791984204791",
+      "cites_id": [
+        "10788440791984204791"
+      ]
     },
     "eXwizz8AAAAJ:UebtZRa9Y70C": {
       "container_type": "Publication",
@@ -132,7 +136,7 @@
       "bib": {
         "title": "Homomorphic-Controlled Augmentation for Time Series Forecasting",
         "pub_year": "2026",
-        "citation": "ICASSP 2026-2026 IEEE International Conference on Acoustics, Speech and …, 2026"
+        "citation": "IEEE International Conference on Acoustics, Speech and Signal Processing …, 2026"
       },
       "filled": false,
       "author_pub_id": "eXwizz8AAAAJ:UebtZRa9Y70C",
@@ -144,7 +148,7 @@
       "bib": {
         "title": "Panoindoor and Panooutdoor: Towards Comprehensive Datasets for Panoramic Instance Segmentation",
         "pub_year": "2026",
-        "citation": "ICASSP 2026-2026 IEEE International Conference on Acoustics, Speech and …, 2026"
+        "citation": "IEEE International Conference on Acoustics, Speech and Signal Processing …, 2026"
       },
       "filled": false,
       "author_pub_id": "eXwizz8AAAAJ:Se3iqnhoufwC",
@@ -175,5 +179,5 @@
       "num_citations": 0
     }
   },
-  "updated": "2026-06-28 10:30:26.255987"
+  "updated": "2026-07-12 09:54:28.264742"
 }
