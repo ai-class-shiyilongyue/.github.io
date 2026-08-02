@@ -16,7 +16,7 @@
   ],
   "email_domain": "@ict.ac.cn",
   "homepage": "https://antxinyuan.github.io/",
-  "citedby": 145,
+  "citedby": 147,
   "publications": {
     "eXwizz8AAAAJ:d1gkVwhDpl0C": {
       "container_type": "Publication",
@@ -44,7 +44,7 @@
       },
       "filled": false,
       "author_pub_id": "eXwizz8AAAAJ:WF5omc3nYNoC",
-      "num_citations": 38,
+      "num_citations": 39,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17940048768269899219",
       "cites_id": [
         "17940048768269899219"
@@ -76,7 +76,7 @@
       },
       "filled": false,
       "author_pub_id": "eXwizz8AAAAJ:ufrVoPGSRksC",
-      "num_citations": 9,
+      "num_citations": 10,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13110888873972411017",
       "cites_id": [
         "13110888873972411017"
@@ -114,7 +114,7 @@
         "7132374231750233237"
       ]
     },
-    "eXwizz8AAAAJ:_FxGoFyzp5QC": {
+    "eXwizz8AAAAJ:hqOjcs7Dif8C": {
       "container_type": "Publication",
       "source": "AUTHOR_PUBLICATION_ENTRY",
       "bib": {
@@ -123,11 +123,11 @@
         "citation": "Pattern Recognition 180, 114079, 2026"
       },
       "filled": false,
-      "author_pub_id": "eXwizz8AAAAJ:_FxGoFyzp5QC",
+      "author_pub_id": "eXwizz8AAAAJ:hqOjcs7Dif8C",
       "num_citations": 1,
-      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10788440791984204791",
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17775121492209096148",
       "cites_id": [
-        "10788440791984204791"
+        "17775121492209096148"
       ]
     },
     "eXwizz8AAAAJ:UebtZRa9Y70C": {
@@ -179,5 +179,5 @@
       "num_citations": 0
     }
   },
-  "updated": "2026-07-26 10:03:51.243310"
+  "updated": "2026-08-02 10:00:51.686132"
 }
